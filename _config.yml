@@ -39,7 +39,7 @@ email: hashemifar.soroush@gmail.com
 avatar: assets/images/Nature-Sunrise-Wallpapers-1080p.jpeg
 
 # You'll want to customize url and baseurl for your own site:
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
 # Social settings
