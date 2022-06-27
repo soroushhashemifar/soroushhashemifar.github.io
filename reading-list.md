@@ -7,11 +7,12 @@ published: true
 order: 3
 ---
 
-Here you can find some cool papers and books which I've found them interesting. Hope they be useful for others. This list is updating regularly so if you know any good machine learning book, please send me the name to add it to the list below.
+With the year coming to a close and not many other things to do than to stay put at home, holiday season could be the perfect time to dive deeper into some books. If you have a passing interest or are just looking for a refresher in all things Machine Learning, I have put together a list of books and papers. Although published at varying points in the development of Deep Learning and Machine Learning, each book offers unique insights.
 
 ## Books:
-* [Deep Learning with Python, Francois Chollet](https://www.manning.com/books/deep-learning-with-python)
-* [Deep Learning for Computer Vision with Python, Adrian Rosebrock](https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/)
-* [Machine Learning: a Probabilistic Perspective, Kevin Patrick Murphy](https://www.cs.ubc.ca/~murphyk/MLbook/)
-* [The Hundred-Page Machine Learning Book, Andriy Burkov](http://themlbook.com/)
+* [The Principles of Deep Learning Theory, Daniel A. Roberts](https://arxiv.org/abs/2106.10165)
 * [Machine Learning Yearning, Andrew Ng](https://www.deeplearning.ai/machine-learning-yearning/)
+* [The Hundred-Page Machine Learning Book, Andriy Burkov, 2019](http://themlbook.com/)
+* [Deep Learning with Python, Francois Chollet, 2017](https://www.manning.com/books/deep-learning-with-python)
+* [Deep Learning for Computer Vision with Python, Adrian Rosebrock, 2017](https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/)
+* [Machine Learning: a Probabilistic Perspective, Kevin Patrick Murphy, 2012](https://www.cs.ubc.ca/~murphyk/MLbook/)
