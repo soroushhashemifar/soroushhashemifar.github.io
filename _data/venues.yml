@@ -1,9 +1,17 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
+"CAEE":
+  url: https://www.sciencedirect.com/journal/computers-and-electrical-engineering
   color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"AISP":
+  url: https://ieeexplore.ieee.org/xpl/conhome/10475172/proceeding
 
-"Vision":
+"ESWA":
+  url: https://www.sciencedirect.com/journal/expert-systems-with-applications
   color: "#009f36"
+
+"ASC":
+  url: https://www.sciencedirect.com/journal/applied-soft-computing
+  color: "#00369f"
+
+"AIED":
+  url: https://iaied.org/
