@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://ce-inter.iust.ac.ir/'>Iran University of Science and Technology (IUST)</a> M.Sc. Software Engineering
+subtitle: <a href='https://ce-inter.iust.ac.ir/'>Iran University of Science and Technology (IUST)</a>, M.Sc. Software Engineering
 
 profile:
   align: right
