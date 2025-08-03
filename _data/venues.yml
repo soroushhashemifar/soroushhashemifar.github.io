@@ -1,6 +1,6 @@
 "CAEE":
   url: https://www.sciencedirect.com/journal/computers-and-electrical-engineering
-  color: "#00369f"
+  color: "#009f36"
 
 "AISP":
   url: https://ieeexplore.ieee.org/xpl/conhome/10475172/proceeding
@@ -16,4 +16,4 @@
 
 "AIED":
   url: https://iaied.org/
-  color: "#009f36"
+  color: "#00369f"
