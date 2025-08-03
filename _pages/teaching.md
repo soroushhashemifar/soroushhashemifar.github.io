@@ -3,10 +3,36 @@ layout: page
 permalink: /teaching/
 title: teaching
 description: Materials for courses you taught. Replace this text with your description.
-nav: false
+nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+<!-- pages/teaching.md -->
+<div class="teaching">
+{% if site.teaching != blank -%} 
+<div class="table-responsive">
+    <table class="table table-sm table-borderless">
+    {%- assign teaching = site.teaching | reverse -%} 
+    {% for item in teaching %} 
+    <tr>
+        <th scope="row">{{ item.sem }}</th>
+        <td>
+        {% if item.inline -%} 
+            {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
+        {%- else -%} 
+            <a class="teaching-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
+        {%- endif %} 
+        </td>
+        <td>
+        {% if item.place -%} 
+            <span class="teaching-place">{{ item.place }}</span>
+        {%- endif %}
+        </td>
+    </tr>
+    {%- endfor %} 
+    </table>
+</div>
+{%- else -%} 
+<p>No teaching so far...</p>
+{%- endif %} 
+</div>
