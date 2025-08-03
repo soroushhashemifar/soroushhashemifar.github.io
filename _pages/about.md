@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='https://ce-inter.iust.ac.ir/'>Iran University of Science and Technology (IUST)</a>, M.Sc. Software Engineering
 
